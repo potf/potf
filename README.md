@@ -1,9 +1,9 @@
 ![Header](https://github.com/potf/potf/blob/main/assets/1760106407645.jpeg)
 
-### Junior QA Engineer with background in e-commerce product lifecycle management, data validation (XML, JSON, web parsing), and functional testing of integrations and automation tools. Skilled in cross-team collaboration and ensuring product quality across platforms
+#### Junior QA Engineer with background in e-commerce product lifecycle management, data validation (XML, JSON, web parsing), and functional testing of integrations and automation tools. Skilled in cross-team collaboration and ensuring product quality across platforms
 
 
-### Languages and Tools
+#### Languages and Tools
 
 ![Jira](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=Jira&logoColor=0052cc)
 ![Postman](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=Postman&logoColor=orange)
@@ -19,8 +19,18 @@
 ![JSON](https://img.shields.io/badge/JSON-090909?style=for-the-badge&logo=JSON&logoColor=red)
 
 
+#### Projects
+- [1](https://)
+- [2](https://)
+- [3](https://)
 
-### Projects
+#### Test Documentation
+- [Postman Collections](https://)
+- [SQL Queries](https://)
+- [Bug-Reports](https://)
 
 
-### CV
+
+
+#### CV
+[Link to my CV](https://)
