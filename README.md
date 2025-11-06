@@ -2,6 +2,7 @@
 
 #### Junior QA Engineer with background in e-commerce product lifecycle management, data validation (XML, JSON, web parsing), and functional testing of integrations and automation tools. Skilled in cross-team collaboration and ensuring product quality across platforms
 
+---
 
 #### Languages and Tools
 
@@ -18,18 +19,21 @@
 ![Trello](https://img.shields.io/badge/Trello-090909?style=for-the-badge&logo=Trello&logoColor=blue)
 ![JSON](https://img.shields.io/badge/JSON-090909?style=for-the-badge&logo=JSON&logoColor=red)
 
+-----------------------
 
 #### Projects
 - [1](https://)
 - [2](https://)
 - [3](https://)
 
+----------------------
+
 #### Test Documentation
 - [Postman Collections](https://)
 - [SQL Queries](https://)
 - [Bug-Reports](https://)
 
-
+-----------------------
 
 
 #### CV
