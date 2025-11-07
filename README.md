@@ -22,7 +22,7 @@
 -----------------------
 
 #### Projects
-- [Kapusta — Financial Web Application (Team Project)](https://docs.google.com/spreadsheets/d/1i_Kz8J2-cOEprkzZKkyyk7i3UqjhKo5oSR9cl9qr6W8/edit?gid=1752727054#gid=1752727054) sdfdsfdsf
+- [Kapusta — Financial Web Application (Team Project)](https://docs.google.com/spreadsheets/d/1i_Kz8J2-cOEprkzZKkyyk7i3UqjhKo5oSR9cl9qr6W8/edit?gid=1752727054#gid=1752727054)
 - [Etsy](https://)
 - [tehnologika](https://)
 
