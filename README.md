@@ -1,5 +1,6 @@
+![Header](https://github.com/potf/potf/blob/main/assets/1760106407645.jpeg)
 
-#### Junior QA Engineer with background in e-commerce product lifecycle management, data validation (XML, JSON, web parsing), and functional testing of integrations and automation tools. Skilled in cross-team collaboration and ensuring product quality across platforms
+#### Junior QA Engineer with background in e-commerce product lifecycle management, data validation (XML, JSON, web parsing), and functional testing of integrations and automation tools. Skilled in cross-team collaboration and ensuring product quality across platforms.
 
 ---
 
@@ -17,3 +18,23 @@
 ![JSON](https://img.shields.io/badge/JSON-090909?style=for-the-badge&logo=JSON&logoColor=grey)
 ![Trello](https://img.shields.io/badge/Trello-090909?style=for-the-badge&logo=Trello&logoColor=blue)
 ![JSON](https://img.shields.io/badge/JSON-090909?style=for-the-badge&logo=JSON&logoColor=red)
+
+-----------------------
+
+#### Projects
+- [Kapusta — Financial Web Application (Team Project)](https://docs.google.com/spreadsheets/d/1i_Kz8J2-cOEprkzZKkyyk7i3UqjhKo5oSR9cl9qr6W8/edit?gid=1752727054#gid=1752727054)
+- [Etsy - e-commerce company](https://)
+- [tehnologika - manufacturing group](https://)
+
+----------------------
+
+#### Test Documentation
+- [Postman Collections](https://www.postman.com/gswarriors/workspace1/collection/)
+- [SQL Queries](https://)
+- [Bug-Reports](https://)
+
+-----------------------
+
+
+#### CV
+[Link to my CV](https://)
