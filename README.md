@@ -29,7 +29,7 @@
 
 #### Test Documentation
 - [Postman Collections](https://www.postman.com/gswarriors)
-- [SQL Queries](https://github.com/potf/ecommerce-sql)
+- [SQL Queries](https://github.com/potf/sql-crud/)
 - [Bug-Reports](https://docs.google.com/spreadsheets/d/1C4ItuwTVhwUU9HERFnEhKvKyxFiRD-H-/edit?usp=drive_link&ouid=111561922053901071336&rtpof=true&sd=true)
 
 -----------------------
