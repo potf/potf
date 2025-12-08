@@ -22,14 +22,13 @@
 -----------------------
 
 #### Projects
-- [Kapusta — Financial Web Application (Team Project).](https://docs.google.com/spreadsheets/d/1i_Kz8J2-cOEprkzZKkyyk7i3UqjhKo5oSR9cl9qr6W8/edit?gid=1752727054#gid=1752727054)
+- [Kapusta — Financial Web Application (Team Project).](https://drive.google.com/drive/folders/1_7qrVL-c57_eH4SuyZDKI4ZoNyEjg-xG?usp=sharing)
 - [Etsy - e-commerce company.](https://drive.google.com/drive/folders/1RXCPW9NZ8Vcv1Nw0jViIkFRe6BDz9-gg?usp=sharing)
-- [tehnologika - manufacturing group](https://)
 
 ----------------------
 
 #### Test Documentation
-- [Postman Collections](https://www.postman.com/gswarriors/workspace1/collection/)
+- [Postman Collections](https://www.postman.com/gswarriors)
 - [SQL Queries](https://)
 - [Bug-Reports](https://)
 
