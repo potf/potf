@@ -29,11 +29,11 @@
 
 #### Test Documentation
 - [Postman Collections](https://www.postman.com/gswarriors)
-- [SQL Queries](https://)
-- [Bug-Reports](https://)
+- [SQL Queries](https://github.com/potf/ecommerce-sql)
+- [Bug-Reports](https://docs.google.com/spreadsheets/d/1C4ItuwTVhwUU9HERFnEhKvKyxFiRD-H-/edit?usp=drive_link&ouid=111561922053901071336&rtpof=true&sd=true)
 
 -----------------------
 
 
 #### CV
-[Link to my CV](https://)
+[Link to my CV](https://drive.google.com/file/d/1TMnLOtvTffeokCRlFFq-pldY7i9elLz9/view?usp=sharing)
